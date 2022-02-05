@@ -6,54 +6,686 @@ uid: 5ddf8675-9d2c-7690-4418-f02e1b62d5ae
 
 The first two weeks of the course are referred to as "Transition." During these weeks the students review what they learned in 21G.102. See the [assignments]({{< baseurl >}}/pages/assignments) section for detailed information about what is covered during Transition. Reference to "L" below refer to lessons in the required text. See the [syllabus]({{< baseurl >}}/pages/syllabus) for the full citation.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Brief introduction to the course  {{< br >}}Self-introduction  {{< br >}}First level Chinese review {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} First level Chinese review {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} First level Chinese review {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} First level Chinese review {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} First level Chinese review {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} L.1, Paragraph 1-2  {{< br >}}Grammar and drills {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} L.1, paragraph 3 & dialogue Qs & As  {{< br >}}L.1, paragraph 3 & dialogue grammar, structure, vocabulary explanations, drills {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Oral practice  {{< br >}}Reading practice {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Listening practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Reading practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Quiz One! {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} L.2, Qs and As  {{< br >}}L.2, grammar, structure, vocabulary explanations, drills {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} L.2, Qs and As  {{< br >}}L.2, grammar, structure, vocabulary explanations, drills {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} Oral practice  {{< br >}}Listening practice {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Reading practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Review L.1 {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} Quiz Two! {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} L.3, grammar, structures, vocabulary explanations and drills  {{< br >}}L.3, Qs and As {{< br >}}{{< br >}}  |
-| 21 |  {{< br >}}{{< br >}} L.3, Qs and As  {{< br >}}L.3, grammar, structure, vocabulary explanations and drills {{< br >}}{{< br >}}  |
-| 22 |  {{< br >}}{{< br >}} Listening practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 23 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 24 |  {{< br >}}{{< br >}} Reading practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 25 |  {{< br >}}{{< br >}} Quiz Three! {{< br >}}{{< br >}}  |
-| 26 |  {{< br >}}{{< br >}} L.4, Qs and As  {{< br >}}L.4, grammar, structures, vocabulary explanations and drills {{< br >}}{{< br >}}  |
-| 27 |  {{< br >}}{{< br >}} L.4, Qs and As  {{< br >}}L.4, grammar, structures, vocabulary explanations and drills {{< br >}}{{< br >}}  |
-| 28 |  {{< br >}}{{< br >}} Listening practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 29 |  {{< br >}}{{< br >}} Reading comprehension practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 30 |  {{< br >}}{{< br >}} Oral practice  {{< br >}}Homework is due today {{< br >}}{{< br >}}  |
-| 31 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 32 |  {{< br >}}{{< br >}} Quiz 4! {{< br >}}{{< br >}}  |
-| 33 |  {{< br >}}{{< br >}} L.5, Qs and As  {{< br >}}L.5, grammar, structures, vocabulary explanations and drills {{< br >}}{{< br >}}  |
-| 34 |  {{< br >}}{{< br >}} L.5, grammar, structures, vocabulary explanations and drills  {{< br >}}L.5, Qs and As {{< br >}}{{< br >}}  |
-| 35 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 36 |  {{< br >}}{{< br >}} Mid-term! {{< br >}}{{< br >}}  |
-| 37 |  {{< br >}}{{< br >}} Reading practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 38 |  {{< br >}}{{< br >}} Reading practice  {{< br >}}Oral practice  {{< br >}}L.5, homework due {{< br >}}{{< br >}}  |
-| 39 |  {{< br >}}{{< br >}} Quiz 5! {{< br >}}{{< br >}}  |
-| 40 |  {{< br >}}{{< br >}} L.6, grammar, structures, vocabulary explanations and drills  {{< br >}}L.6, Qs and As {{< br >}}{{< br >}}  |
-| 41 |  {{< br >}}{{< br >}} L.6, grammar, structures, vocabulary explanations and drills  {{< br >}}L.6, Qs and As {{< br >}}{{< br >}}  |
-| 42 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 43 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}  |
-| 44 |  {{< br >}}{{< br >}} Listening practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 45 |  {{< br >}}{{< br >}} Reading practice  {{< br >}}Oral practice {{< br >}}{{< br >}}  |
-| 46 |  {{< br >}}{{< br >}} Quiz 6! {{< br >}}{{< br >}}  |
-| 47 |  {{< br >}}{{< br >}} L.7, grammar, structures, vocabulary explanations and drills  {{< br >}}L.7, Qs and As {{< br >}}{{< br >}}  |
-| 48 |  {{< br >}}{{< br >}} L. 7, grammar, structures, vocabulary explanations and drills  {{< br >}}L.7, Qs and As {{< br >}}{{< br >}}  |
-| 49 |  {{< br >}}{{< br >}} Oral practice {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Brief introduction to the course  
+Self-introduction  
+First level Chinese review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First level Chinese review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First level Chinese review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First level Chinese review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First level Chinese review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.1, Paragraph 1-2  
+Grammar and drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.1, paragraph 3 & dialogue Qs & As  
+L.1, paragraph 3 & dialogue grammar, structure, vocabulary explanations, drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice  
+Reading practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listening practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz One!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.2, Qs and As  
+L.2, grammar, structure, vocabulary explanations, drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.2, Qs and As  
+L.2, grammar, structure, vocabulary explanations, drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice  
+Listening practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review L.1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz Two!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.3, grammar, structures, vocabulary explanations and drills  
+L.3, Qs and As
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.3, Qs and As  
+L.3, grammar, structure, vocabulary explanations and drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listening practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz Three!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.4, Qs and As  
+L.4, grammar, structures, vocabulary explanations and drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.4, Qs and As  
+L.4, grammar, structures, vocabulary explanations and drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listening practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading comprehension practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice  
+Homework is due today
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 4!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.5, Qs and As  
+L.5, grammar, structures, vocabulary explanations and drills
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.5, grammar, structures, vocabulary explanations and drills  
+L.5, Qs and As
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mid-term!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading practice  
+Oral practice  
+L.5, homework due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 5!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.6, grammar, structures, vocabulary explanations and drills  
+L.6, Qs and As
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.6, grammar, structures, vocabulary explanations and drills  
+L.6, Qs and As
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listening practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading practice  
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 6!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L.7, grammar, structures, vocabulary explanations and drills  
+L.7, Qs and As
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+L. 7, grammar, structures, vocabulary explanations and drills  
+L.7, Qs and As
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oral practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

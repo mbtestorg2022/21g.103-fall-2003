@@ -12,16 +12,93 @@ An excerpt, transformed into _jiantizi_, from _The Lady in the Painting_, by Fan
 Reading Questions
 -----------------
 
-| WEEK # | Reading Questions |
-| --- | --- |
-| 1 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting1)) |
-| 2 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting2)) |
-| 3 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting3)) |
-| 4 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting4)) |
-| 5 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting5)) |
-| 6 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting6)) |
-| 7 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting7)) |
-| 8 | ([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting8)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+Reading Questions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_103f03_painting8))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 David and Helen
 ---------------
