@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05a896cf-e841-059f-05c2-f7aae1322a71
 resourcetype: Image
 title: sha.jpg
 uid: 30b0e7f0-7f7d-03a2-d255-2a3546b1d6d0

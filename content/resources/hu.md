@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05a896cf-e841-059f-05c2-f7aae1322a71
 resourcetype: Image
 title: hu.jpg
 uid: 29f495b9-abbf-5171-15bd-af0d25f4d237

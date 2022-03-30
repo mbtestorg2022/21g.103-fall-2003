@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05a896cf-e841-059f-05c2-f7aae1322a71
 resourcetype: Image
 title: fen.jpg
 uid: f32957e2-3d73-03d2-bfee-84234c4cca6c

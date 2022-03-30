@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05a896cf-e841-059f-05c2-f7aae1322a71
 resourcetype: Image
 title: tuan.jpg
 uid: f1fe652f-be76-f29d-3d2b-6514c950df3f

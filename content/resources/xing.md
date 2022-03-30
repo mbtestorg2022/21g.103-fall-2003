@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05a896cf-e841-059f-05c2-f7aae1322a71
 resourcetype: Image
 title: xing.jpg
 uid: 1d2b66d8-d916-f201-0bff-99eb3abd0746
